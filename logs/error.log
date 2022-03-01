@@ -1,0 +1,10 @@
+2022/03/01 22:35:07 [notice] 13240#12624: signal process started
+2022/03/01 22:36:39 [emerg] 12552#12336: could not build server_names_hash, you should increase server_names_hash_bucket_size: 32
+2022/03/01 22:38:33 [notice] 11560#11540: signal process started
+2022/03/01 22:39:24 [notice] 8820#4768: signal process started
+2022/03/01 22:40:47 [notice] 9724#13104: signal process started
+2022/03/01 22:40:53 [error] 12192#9116: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: local.bosdom.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "local.bosdom.com"
+2022/03/01 22:43:07 [error] 12192#9116: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: local.bosdom.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "local.bosdom.com"
+2022/03/01 22:46:34 [notice] 4176#1132: signal process started
+2022/03/01 22:46:39 [error] 9028#9524: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: local.bosdom.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "local.bosdom.com"
+2022/03/01 22:58:48 [error] 9028#9524: *10 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: local.bosdom.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9123", host: "local.bosdom.com"
